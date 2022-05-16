@@ -1,0 +1,4 @@
+{"partitionKey":{"S":"ItemA"},"data":{"N":"1"}}
+{"partitionKey":{"S":"ItemB"},"data":{"N":"1"}}
+{"partitionKey":{"S":"ItemC"},"data":{"N":"1"}}
+{"partitionKey":{"S":"ItemD"},"data":{"N":"1"}}
